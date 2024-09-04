@@ -1,8 +1,8 @@
 # Intel's libhoudini for intel/AMD x86 CPU, pulled from HPE image from Google Play Games for PC
 
-`houdini` version: 14.?.?
+`houdini` version: 14.0.0b_y.39441.g
 
-`houdini64` version: 14.?.?
+`houdini64` version: 14.0.0b_z.39441.g
 
 Android image fingerprint: google/kiwi_x86_64_dev/vsoc_kiwi_x86_64:14/UKW1.240818.001/12244619:user/release-keys
 
